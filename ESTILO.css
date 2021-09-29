@@ -1,0 +1,48 @@
+body
+{
+ background-color: aqua;
+ color :blueviolet;
+ font-size:xx-large;
+ text-align:center;
+}
+table
+{
+    background-color:brown ;
+    width: 1060px;
+    height: 60;
+
+}
+
+h1{
+    background-color: cornsilk;
+    color: gold;
+}
+h2{
+    background-color:honeydew;
+    color:black;
+    font-size:x-large;
+
+}
+img{
+    width: 700 ;
+    height: 500 ;
+
+}
+p{
+
+    text-align: center;
+    background-color: beige;
+}
+td,th{
+    border: 3px ;
+    text-align: center;
+    color: beige;
+  
+   
+    
+
+}
+
+table{
+    width: 100%;
+}
